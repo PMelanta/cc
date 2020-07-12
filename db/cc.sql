@@ -2,7 +2,8 @@
 SQLyog Enterprise - MySQL GUI v8.12 
 MySQL - 5.6.23-log : Database - cc
 *********************************************************************
-*/
+*/
+
 
 /*!40101 SET NAMES utf8 */;
 
@@ -3394,7 +3395,7 @@ CREATE TABLE `u_product` (
 
 /*Data for the table `u_product` */
 
-insert  into `u_product`(`prod_rid`,`prod_code`,`prod_title`,`prod_name`,`prod_version`,`prod_release_date`,`prod_valid`,`prod_db_type`,`prod_db_name`,`prod_db_user_name`,`prod_db_password`,`prod_db_driver_classname`,`prod_db_port`,`prod_db_host_addr`) values (1,'CC','Campus Connect','CC','1.0.000',NULL,1,'MySQL','cc','root','mysql','com.mysql.jdbc.Driver','3306','localhost');
+insert  into `u_product`(`prod_rid`,`prod_code`,`prod_title`,`prod_name`,`prod_version`,`prod_release_date`,`prod_valid`,`prod_db_type`,`prod_db_name`,`prod_db_user_name`,`prod_db_password`,`prod_db_driver_classname`,`prod_db_port`,`prod_db_host_addr`) values (1,'CC','Campus Connect','CC','1.0.000',NULL,1,'MySQL','cc','root','Admine@root8','com.mysql.jdbc.Driver','3306','localhost');
 
 /*Table structure for table `u_role` */
 
