@@ -242,7 +242,7 @@ span.pagingControl {
 .menuHeading{
    color: #FFFFFF;
    text-decoration: none;
-   //    background-color: #C32020 ;
+   background-color: #C32020 ;
    border: 0 ;
 }
 
@@ -291,7 +291,7 @@ span.menuLink:hover{
 .generalLink{
    color: #ffffff;
    font-weight: bold;
-   //    background-color: #C32020 ;
+   background-color: #C32020 ;
    border: 0 ;
 }
 
@@ -306,7 +306,7 @@ span.menuLink:hover{
    color: #ffffff;
    text-decoration: none;
    font-weight: bold;
-   //    background-color: #C32020 ;
+   background-color: #C32020 ;
    background-color: #445677; 
    border: 0 ;
 }
@@ -316,7 +316,7 @@ span.menuLink:hover{
    color: #ffffff;
    text-decoration: none;
    font-weight: bold;
-   //    background-color: #C32020 ;
+   background-color: #C32020 ;
    border: 0 ;
 }
 
@@ -385,7 +385,7 @@ td.inputRow{
 
 td.title{
    background-repeat: no-repeat;
-   //    border-bottom: 2px solid #C32020;
+   border-bottom: 2px solid #C32020;
 }
 
 table.display{
@@ -395,7 +395,7 @@ table.display{
 h1 {
    font-family: Verdana, Arial, Helvetica, sans-serif;
    font-weight: bold;
-   //    color: #C32020;
+   color: #C32020;
 }
 
 
@@ -604,7 +604,7 @@ background-image: -webkit-gradient(
 /* CSS Document */
 
 .tableHeaderColor{
-   //	background-color: #C32020; 
+   background-color: #C32020; 
    color: #FFFFFF;
 }
 
@@ -619,7 +619,8 @@ background-image: -webkit-gradient(
    background-color: #E1CFDD;
 }
 .workTableBodyColor{
-   background-color:#E7D7E4; //Medium: #F1E7EF; 
+   background-color:#E7D7E4; 
+   Medium: #F1E7EF; 
 }
 
 .button{
@@ -1002,12 +1003,12 @@ td.displayLabel {
 .MDUITableHeaderFont{
    font-family: Arial, Helvetica, sans-serif;
    font-size: 12px;
-   //  background-color: #C32020;
+   background-color: #C32020;
    color: #FFFFFF;
 }
 
 .MDUITableHeaderColor{
-   //  background-color: #C32020;
+   background-color: #C32020;
 }
 .drilldownTableHeaderColor{
    background-color: #EEEEEE;
@@ -1019,9 +1020,9 @@ td.displayLabel {
    font-size: 12px;
    color: #000000;
 }
-.subTableHeaderColor{
-   font-family: Arial, Helvetica, sans-serif;
-   font-weight: bold;
+.su
+
+font-weight{
    color: #CCCCCC;
    background-color: #FFFFCC;
    font-size: 20px;

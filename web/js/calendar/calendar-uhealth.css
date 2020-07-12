@@ -7,7 +7,7 @@ div.calendar { position: relative; }
   font-size: 11px;
   color: #000;
   cursor: default;
-  background: #D5DAE3; // #eef;
+  background: #D5DAE3;  
   font-family: tahoma,verdana,sans-serif;
 }
 
@@ -17,19 +17,19 @@ div.calendar { position: relative; }
   text-align: center;    /* They are the navigation buttons */
   border:0;
   background: #D5DAE3; 
-//  padding: 2px;          /* Make the buttons seem like they're pressing */
+  padding: 2px;          /* Make the buttons seem like they're pressing */
 }
 
 .calendar .nav {
-  background: #D5DAE3;  // url(menuarrow.gif) no-repeat 100% 100%; // #778
+  background: #D5DAE3; 
 }
 
 .calendar thead .title { /* This holds the current "month, year" */
   font-weight: bold;      /* Pressing it will take you to the current date */
   text-align: center;
-  background: #445567; // #fff;
-  color: #fff; // #000;
-//  font-size: 14px;
+  background: #445567; 
+  color: #fff; 
+  font-size: 14px;
   padding: 2px;
 }
 
@@ -39,7 +39,7 @@ div.calendar { position: relative; }
 }
 
 .calendar thead .daynames { /* Row <TR> containing the day names */
-  background: #7F8DA8; // #bdf;
+  background: #7F8DA8; 
 }
 
 .calendar thead .name { /* Cells <TD> containing the day names */
@@ -56,13 +56,13 @@ div.calendar { position: relative; }
 .calendar thead .hilite { /* How do the buttons in header appear when hover */
   background-color: #fff;
   color: #000;
-//  border: 1px solid #04f;
-//  padding: 1px;
+  border: 1px solid #04f;
+ padding: 1px;
 }
 
 .calendar thead .active { /* Active (pressed) buttons in header */
   background-color: #77c;
-//  padding: 2px 0px 0px 2px;
+ padding: 2px 0px 0px 2px;
 }
 
 /* The body part -- contains all the days in month. */
@@ -74,7 +74,7 @@ div.calendar { position: relative; }
   padding: 2px 4px 2px 2px;
 }
 .calendar tbody .day.othermonth {
-//  font-size: 80%;
+ font-size: 80%;
   color: #bbb;
 }
 .calendar tbody .day.othermonth.oweekend {
@@ -172,7 +172,7 @@ div.calendar { position: relative; }
   border: 1px solid #655;
   background: #def;
   color: #000;
-//  font-size: 90%;
+  font-size: 90%;
   z-index: 100;
 }
 
